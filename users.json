@@ -4,21 +4,21 @@
       "id": 1,
       "name": "Admin",
       "email": "admin@gmail.com",
-      "password": "$2b$10$7QJ8F6pW5V5Qy8Yw8ZlH3eX2z0zYl0u1JvK6k0JQ8WzZ6J9c1p9K2",
+      "password": "$2b$10$w5QJX6z8yYkJ2lXrZk7O9uYJQv9r7s6cJ2YF3b6KXzWcF0uV8m9QG",
       "role": "admin"
     },
     {
       "id": 2,
       "name": "Teacher",
       "email": "teacher@gmail.com",
-      "password": "$2b$10$wH8Kk8n2l9JkPq0WzXcV3eR4tY6uI7oP9aS2dF3gH4jK5lM6nO7P8",
+      "password": "$2b$10$gF9kL2pQxZ8rYtVbN6cW7eH3uJ5mA1sD4fG7hJ9kL0pQ2rT6yU8i",
       "role": "teacher"
     },
     {
       "id": 3,
       "name": "Student",
       "email": "student@gmail.com",
-      "password": "$2b$10$XyZ9kLmN0pQrStUvWxYz1a2b3c4d5e6f7g8h9i0jK1l2m3n4o5p6",
+      "password": "$2b$10$Zx8Yw7Vt6Sr5Qp4N3m2L1k0J9h8G7f6D5s4A3b2C1d0E9F8g7H6i",
       "role": "student"
     }
   ]
