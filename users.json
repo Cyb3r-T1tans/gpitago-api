@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "$2b$10$7QJ8F6pW5V5Qy8Yw8ZlH3eX2z0zYl0u1JvK6k0JQ8WzZ6J9c1p9K2",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Teacher",
+      "email": "teacher@gmail.com",
+      "password": "$2b$10$wH8Kk8n2l9JkPq0WzXcV3eR4tY6uI7oP9aS2dF3gH4jK5lM6nO7P8",
+      "role": "teacher"
+    },
+    {
+      "id": 3,
+      "name": "Student",
+      "email": "student@gmail.com",
+      "password": "$2b$10$XyZ9kLmN0pQrStUvWxYz1a2b3c4d5e6f7g8h9i0jK1l2m3n4o5p6",
+      "role": "student"
+    }
+  ]
+}
