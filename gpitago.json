@@ -1,0 +1,174 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Phạm Văn Tuấn",
+      "qualification": "Tiến sĩ Toán học",
+      "avatar": "/PhamVanTuan.jpg",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Tốt nghiệp Hệ cử nhân khoa học tài năng toán học, Đại học Sư phạm Hà Nội",
+              "Tốt nghiệp Thạc sĩ, Tiến sĩ tại Đại học Sorbonne Paris Nord, Pháp"
+            ]
+          },
+          {
+            "title": "Nghiên cứu khoa học và giải thưởng",
+            "items": [
+              "Một số bài đăng trên tạp chí hàng đầu về toán học như: International Mathematics Research Notices, Annales de l'Institut Fourier",
+              "Đạt giải Nhất giải thưởng Khoa học Công nghệ cấp Bộ năm 2023"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Nhiều năm kinh nghiệm giảng dạy, bồi dưỡng học sinh ở các trình độ. Học trò tiến bộ, đạt thành tích cao.",
+              "Nhiều năm đồng hành với học sinh các chương trình toán học THPT Anh, Mỹ, theo chuẩn quốc tế như IB, AP, A-Level.",
+              "Tham gia xây dựng ngân hàng câu hỏi cho các kỳ thi tuyển sinh đại học, đánh giá năng lực.",
+              "Giảng dạy hệ Cử nhân khoa học tài năng toán học của trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Vũ Văn Long",
+      "qualification": "Cử nhân Sư phạm Toán học",
+      "avatar": "/VuVanLong.png",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Đại học Giáo dục, Đại học Quốc gia Hà Nội, chuyên ngành Sư phạm Toán học"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Hơn 5 năm kinh nghiệm giảng dạy và trợ giảng chuyên sâu: Đồng hành cùng học sinh khối THCS và THPT thông qua các hình thức gia sư 1-1, học theo nhóm và trợ giảng tại các trung tâm giáo dục uy tín.",
+              "Chuyên gia luyện thi mũi nhọn và bồi dưỡng tài năng: Sở hữu bề dày kinh nghiệm trong việc ôn luyện thi vào các trường Chuyên và bồi dưỡng học sinh giỏi (HSG) Toán cấp THCS, THPT."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Phạm Nam Khánh",
+      "qualification": "Cử nhân Sư phạm Toán học",
+      "avatar": "/PhamNamKhanh.jpg",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Đại học Giáo dục, Đại học Quốc gia Hà Nội, chuyên ngành Sư phạm Khoa học tự nhiên"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Hơn 3 năm kinh nghiệm gia sư môn Toán cho học sinh các khối lớp từ 7 đến 12.",
+              "Trợ giảng tại trung tâm toán học Sư phụ Nghĩa (2022 - 2023).",
+              "Kiến tập tại trường clc THCS Thanh Xuân 2022 - 2024.",
+              "Thực tập tại trường clc THCS Thanh Xuân 2025."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "source": "/Bao1.jpg",
+      "title": "Bộ GD-ĐT công bố những điểm mới về thi tốt nghiệp THPT năm 2026",
+      "summary": "Thông tư mới tích hợp giấy báo dự thi và thẻ dự thi thành một loại duy nhất, điều chỉnh quy trình phúc khảo và các diện ưu tiên phù hợp với mô hình chính quyền địa phương 2 cấp.",
+      "url": "https://vietnamnet.vn/bo-gd-dt-cong-bo-nhung-diem-moi-ve-thi-tot-nghiep-thpt-nam-2026-2496544.html",
+      "tag": "Tốt nghiệp THPT"
+    },
+    {
+      "id": 2,
+      "source": "/Bao2.jpg",
+      "title": "Chốt lịch thi lớp 10 Hà Nội, thí sinh không được đổi nguyện vọng sau khi đăng ký",
+      "summary": "Kỳ thi vào lớp 10 Hà Nội diễn ra từ 30/5 đến 1/6, sớm hai tuần so với mọi năm. Mỗi thí sinh được đăng ký tối đa 3 nguyện vọng vào trường THPT công lập.",
+      "url": "https://vnexpress.net/chot-lich-thi-lop-10-ha-noi-thi-sinh-khong-duoc-doi-nguyen-vong-sau-khi-dang-ky-5047346.html",
+      "tag": "Tuyển sinh lớp 10"
+    },
+    {
+      "id": 3,
+      "source": "/Bao3.jpg",
+      "title": "Không công bố đề minh họa Kỳ thi tốt nghiệp THPT 2026",
+      "summary": "Bộ GD&ĐT sẽ không công bố đề minh họa năm 2026. Cấu trúc đề thi giữ nguyên theo tỉ lệ 4:3:3. Kỳ thi dự kiến tổ chức ngày 11-12/6/2026.",
+      "url": "https://xaydungchinhsach.chinhphu.vn/khong-cong-bo-de-minh-hoa-ky-thi-tot-nghiep-thpt-2026-119260205083208828.htm",
+      "tag": "Đề thi"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "BỒI DƯỠNG HSG TOÁN",
+      "target": "Học sinh từ lớp 6 đến lớp 12 có năng khiếu và mục tiêu đạt giải trong các kỳ thi học sinh giỏi cấp Thành phố, Quốc gia",
+      "content": [
+        "Hệ thống hóa kiến thức chuyên sâu các chuyên đề Toán nâng cao (Số học, Hình học phẳng, Bất đẳng thức...)",
+        "Luyện giải bộ đề thi HSG các năm bám sát cấu trúc mới nhất",
+        "Phát triển tư duy logic, kỹ năng chứng minh và trình bày bài toán phức tạp",
+        "Tiếp cận nguồn tài liệu độc quyền từ các giáo viên chuyên Toán hàng đầu",
+        "Rèn luyện kỹ năng kiểm soát thời gian và tâm lý vững vàng trong phòng thi"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "LUYỆN THI VÀO LỚP 10 CHUYÊN TOÁN",
+      "target": "Học sinh lớp 9 ôn luyện vào các trường THPT Công lập và THPT Chuyên",
+      "content": [
+        "Tổng ôn toàn bộ kiến thức Toán THCS trọng tâm thi vào 10",
+        "<b>Toán cơ bản:</b> Tối ưu hóa điểm số, rà soát các lỗi trình bày hay mất điểm",
+        "<b>Toán chuyên:</b> Tập trung các dạng bài phân loại cao như Tổ hợp, Hình học nâng cao và cực trị",
+        "Sử dụng sơ đồ tư duy để hệ thống phương pháp giải cho từng dạng bài cụ thể",
+        "Luyện đề thi thử liên tục dưới áp lực thời gian như thi thật",
+        "Chiến thuật phân bổ thời gian làm bài để đạt điểm rơi phong độ tốt nhất"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LUYỆN THI ĐGNL & ĐGTD (MÔN TOÁN)",
+      "target": "Học sinh THPT (lớp 10-12) muốn xét tuyển đại học qua kỳ thi Đánh giá năng lực, Đánh giá tư duy",
+      "content": [
+        "Bồi dưỡng tư duy định lượng, phân tích số liệu và giải quyết vấn đề toán học",
+        "Mẹo sử dụng máy tính Casio tối ưu và các phương pháp giải nhanh trắc nghiệm",
+        "Luyện tập các dạng bài đọc hiểu đồ thị, bảng biểu và suy luận logic",
+        "Cập nhật cấu trúc đề thi mới nhất của ĐHQG và ĐH Bách Khoa",
+        "Chia sẻ kinh nghiệm thực chiến và chiến thuật \"khoanh\" vùng kiến thức trọng tâm"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "TOÁN TƯ DUY & MẤT GỐC (THCS - THPT)",
+      "target": "Học sinh từ lớp 6 đến lớp 12 muốn lấy lại nền tảng hoặc yêu thích cách tiếp cận toán học mới",
+      "content": [
+        "Lấy lại căn bản cho học sinh mất gốc bằng phương pháp giảng dạy trực quan",
+        "Xây dựng lộ trình học cá nhân hóa giúp học sinh không còn sợ môn Toán",
+        "Ứng dụng toán học vào các bài toán thực tế để tăng cảm hứng học tập",
+        "Rèn luyện kỹ năng tính nhẩm, tư duy hình học không gian và logic toán học",
+        "Giúp học sinh làm chủ kiến thức trên lớp và cải thiện điểm số định kỳ"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "GIA SƯ TOÁN 1-1 CÁ NHÂN HÓA",
+      "target": "Học sinh cần lộ trình riêng biệt để bứt phá điểm số hoặc ôn thi cấp tốc",
+      "content": [
+        "Kiểm tra đầu vào chi tiết để xác định lỗ hổng kiến thức môn Toán",
+        "Mô hình 1 thầy - 1 trò giúp tương tác tối đa, giải đáp thắc mắc ngay lập tức",
+        "Giáo trình thiết kế riêng dựa trên học lực và mục tiêu của từng học sinh",
+        "Báo cáo kết quả học tập và sự tiến bộ theo từng tháng cho phụ huynh",
+        "Đội ngũ giáo viên chuyên Toán hỗ trợ giải bài tập khó 24/7 qua nhóm Zalo"
+      ]
+    }
+  ]
+}

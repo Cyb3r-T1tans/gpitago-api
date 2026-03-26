@@ -1,0 +1,65 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "BỒI DƯỠNG HSG TOÁN",
+      "target": "Học sinh từ lớp 6 đến lớp 12 có năng khiếu và mục tiêu đạt giải trong các kỳ thi học sinh giỏi cấp Thành phố, Quốc gia",
+      "content": [
+        "Hệ thống hóa kiến thức chuyên sâu các chuyên đề Toán nâng cao (Số học, Hình học phẳng, Bất đẳng thức...)",
+        "Luyện giải bộ đề thi HSG các năm bám sát cấu trúc mới nhất",
+        "Phát triển tư duy logic, kỹ năng chứng minh và trình bày bài toán phức tạp",
+        "Tiếp cận nguồn tài liệu độc quyền từ các giáo viên chuyên Toán hàng đầu",
+        "Rèn luyện kỹ năng kiểm soát thời gian và tâm lý vững vàng trong phòng thi"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "LUYỆN THI VÀO LỚP 10 CHUYÊN TOÁN",
+      "target": "Học sinh lớp 9 ôn luyện vào các trường THPT Công lập và THPT Chuyên",
+      "content": [
+        "Tổng ôn toàn bộ kiến thức Toán THCS trọng tâm thi vào 10",
+        "<b>Toán cơ bản:</b> Tối ưu hóa điểm số, rà soát các lỗi trình bày hay mất điểm",
+        "<b>Toán chuyên:</b> Tập trung các dạng bài phân loại cao như Tổ hợp, Hình học nâng cao và cực trị",
+        "Sử dụng sơ đồ tư duy để hệ thống phương pháp giải cho từng dạng bài cụ thể",
+        "Luyện đề thi thử liên tục dưới áp lực thời gian như thi thật",
+        "Chiến thuật phân bổ thời gian làm bài để đạt điểm rơi phong độ tốt nhất"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LUYỆN THI ĐGNL & ĐGTD (MÔN TOÁN)",
+      "target": "Học sinh THPT (lớp 10-12) muốn xét tuyển đại học qua kỳ thi Đánh giá năng lực, Đánh giá tư duy",
+      "content": [
+        "Bồi dưỡng tư duy định lượng, phân tích số liệu và giải quyết vấn đề toán học",
+        "Mẹo sử dụng máy tính Casio tối ưu và các phương pháp giải nhanh trắc nghiệm",
+        "Luyện tập các dạng bài đọc hiểu đồ thị, bảng biểu và suy luận logic",
+        "Cập nhật cấu trúc đề thi mới nhất của ĐHQG và ĐH Bách Khoa",
+        "Chia sẻ kinh nghiệm thực chiến và chiến thuật \"khoanh\" vùng kiến thức trọng tâm"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "TOÁN TƯ DUY & MẤT GỐC (THCS - THPT)",
+      "target": "Học sinh từ lớp 6 đến lớp 12 muốn lấy lại nền tảng hoặc yêu thích cách tiếp cận toán học mới",
+      "content": [
+        "Lấy lại căn bản cho học sinh mất gốc bằng phương pháp giảng dạy trực quan",
+        "Xây dựng lộ trình học cá nhân hóa giúp học sinh không còn sợ môn Toán",
+        "Ứng dụng toán học vào các bài toán thực tế để tăng cảm hứng học tập",
+        "Rèn luyện kỹ năng tính nhẩm, tư duy hình học không gian và logic toán học",
+        "Giúp học sinh làm chủ kiến thức trên lớp và cải thiện điểm số định kỳ"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "GIA SƯ TOÁN 1-1 CÁ NHÂN HÓA",
+      "target": "Học sinh cần lộ trình riêng biệt để bứt phá điểm số hoặc ôn thi cấp tốc",
+      "content": [
+        "Kiểm tra đầu vào chi tiết để xác định lỗ hổng kiến thức môn Toán",
+        "Mô hình 1 thầy - 1 trò giúp tương tác tối đa, giải đáp thắc mắc ngay lập tức",
+        "Giáo trình thiết kế riêng dựa trên học lực và mục tiêu của từng học sinh",
+        "Báo cáo kết quả học tập và sự tiến bộ theo từng tháng cho phụ huynh",
+        "Đội ngũ giáo viên chuyên Toán hỗ trợ giải bài tập khó 24/7 qua nhóm Zalo"
+      ]
+    }
+  ]
+}

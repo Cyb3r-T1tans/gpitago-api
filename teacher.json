@@ -1,0 +1,85 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Phạm Văn Tuấn",
+      "qualification": "Tiến sĩ Toán học",
+      "avatar": "/PhamVanTuan.jpg",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Tốt nghiệp Hệ cử nhân khoa học tài năng toán học, Đại học Sư phạm Hà Nội",
+              "Tốt nghiệp Thạc sĩ, Tiến sĩ tại Đại học Sorbonne Paris Nord, Pháp"
+            ]
+          },
+          {
+            "title": "Nghiên cứu khoa học và giải thưởng",
+            "items": [
+              "Một số bài đăng trên tạp chí hàng đầu về toán học như: International Mathematics Research Notices, Annales de l'Institut Fourier",
+              "Đạt giải Nhất giải thưởng Khoa học Công nghệ cấp Bộ năm 2023"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Nhiều năm kinh nghiệm giảng dạy, bồi dưỡng học sinh ở các trình độ. Học trò tiến bộ, đạt thành tích cao.",
+              "Nhiều năm đồng hành với học sinh các chương trình toán học THPT Anh, Mỹ, theo chuẩn quốc tế như IB, AP, A-Level.",
+              "Tham gia xây dựng ngân hàng câu hỏi cho các kỳ thi tuyển sinh đại học, đánh giá năng lực.",
+              "Giảng dạy hệ Cử nhân khoa học tài năng toán học của trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Vũ Văn Long",
+      "qualification": "Cử nhân Sư phạm Toán học",
+      "avatar": "/VuVanLong.png",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Đại học Giáo dục, Đại học Quốc gia Hà Nội, chuyên ngành Sư phạm Toán học"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Hơn 5 năm kinh nghiệm giảng dạy và trợ giảng chuyên sâu: Đồng hành cùng học sinh khối THCS và THPT thông qua các hình thức gia sư 1-1, học theo nhóm và trợ giảng tại các trung tâm giáo dục uy tín.",
+              "Chuyên gia luyện thi mũi nhọn và bồi dưỡng tài năng: Sở hữu bề dày kinh nghiệm trong việc ôn luyện thi vào các trường Chuyên và bồi dưỡng học sinh giỏi (HSG) Toán cấp THCS, THPT."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Phạm Nam Khánh",
+      "qualification": "Cử nhân Sư phạm Toán học",
+      "avatar": "/PhamNamKhanh.jpg",
+      "bio": {
+        "sections": [
+          {
+            "title": "Học vấn",
+            "items": [
+              "Đại học Giáo dục, Đại học Quốc gia Hà Nội, chuyên ngành Sư phạm Khoa học tự nhiên"
+            ]
+          },
+          {
+            "title": "Kinh nghiệm giảng dạy",
+            "items": [
+              "Hơn 3 năm kinh nghiệm gia sư môn Toán cho học sinh các khối lớp từ 7 đến 12.",
+              "Trợ giảng tại trung tâm toán học Sư phụ Nghĩa (2022 - 2023).",
+              "Kiến tập tại trường clc THCS Thanh Xuân 2022 - 2024.",
+              "Thực tập tại trường clc THCS Thanh Xuân 2025."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
