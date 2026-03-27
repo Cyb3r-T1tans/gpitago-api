@@ -1,0 +1,121 @@
+{
+	"hero": {
+		"badge": "Cảm nhận & thành tựu",
+		"title": "Câu chuyện thành công từ Thánh đường",
+		"description": "Nơi những tâm hồn toán học được mài giũa để vươn tới những đỉnh cao rực rỡ nhất trong hành trình tri thức.",
+		"imagePath": "/DanhGia-red.jpg",
+		"highlight": {
+			"label": "Học bổng NUS 2024",
+			"quote": "G-Pitago không chỉ dạy tôi giải toán, họ dạy tôi cách yêu sự phức tạp của những con số."
+		},
+		"stats": [
+			{
+				"value": "98%",
+				"label": "Tỉ lệ đạt chứng chỉ"
+			},
+			{
+				"value": "500+",
+				"label": "Giải thưởng Quốc gia"
+			},
+			{
+				"value": "Top 1",
+				"label": "Môi trường chuyên sâu"
+			}
+		]
+	},
+	"successStories": [
+		{
+			"id": 1,
+			"tag": "Thủ khoa Quốc gia 2023",
+			"name": "Nguyễn Minh Quân",
+			"quote": "Phương pháp tư duy tại G-Pitago giúp em tiếp cận những bài toán khó nhất bằng một sự bình tĩnh tuyệt đối.",
+			"achievement": "Toán học Quốc tế (IMO)",
+			"imagePath": "/PhamNamKhanh.jpg"
+		},
+		{
+			"id": 2,
+			"tag": "Học bổng NUS Toàn phần",
+			"name": "Trần Lê Chi",
+			"quote": "Sự tận tâm của các thầy cô không chỉ giúp em có kiến thức mà còn xây dựng một tư duy phản biện sắc bén.",
+			"achievement": "National University of Singapore",
+			"imagePath": "/VuVanLong.png"
+		}
+	],
+	"testimonials": [
+		{
+			"id": 1,
+			"name": "Chị Mai Phương",
+			"role": "Phụ huynh bé Hoàng Anh",
+			"quote": "Việc tìm được một môi trường vừa khắc nghiệt về học thuật vừa ấm áp về tinh thần như G-Pitago là một cơ duyên tuyệt vời cho con tôi.",
+			"rating": 5,
+			"variant": "default",
+			"imagePath": "/AnhDangNhap.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Anh Tuấn Anh",
+			"role": "Phụ huynh bé Gia Bảo",
+			"quote": "Con không còn sợ Toán, mà coi đó là một trò chơi trí tuệ đầy hứng khởi. Cảm ơn đội ngũ giáo viên G-Pitago rất nhiều!",
+			"rating": 5,
+			"variant": "accent",
+			"imagePath": "/PhamVanTuan.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Chị Khánh Vân",
+			"role": "Phụ huynh bé Linh Đan",
+			"quote": "Lộ trình học cá nhân hóa tại đây thực sự làm nên sự khác biệt. Con tôi đã tiến bộ vượt bậc chỉ sau một học kỳ.",
+			"rating": 5,
+			"variant": "default",
+			"imagePath": "/DanhGia.jpg"
+		}
+	],
+	"gallery": [
+		{
+			"id": 1,
+			"imagePath": "/Bao1.jpg",
+			"alt": "Khoảnh khắc chúc mừng thành tích học tập"
+		},
+		{
+			"id": 2,
+			"imagePath": "/Bao2.jpg",
+			"alt": "Khoảnh khắc trao giải cho học sinh"
+		},
+		{
+			"id": 3,
+			"imagePath": "/Bao3.jpg",
+			"alt": "Buổi học nhóm tại G-Pitago"
+		},
+		{
+			"id": 4,
+			"imagePath": "/DanhGia-red.jpg",
+			"alt": "Khoảnh khắc lưu niệm sau sự kiện"
+		},
+		{
+			"id": 5,
+			"imagePath": "/DanhGia.jpg",
+			"alt": "Chứng nhận và thành tựu học tập"
+		},
+		{
+			"id": 6,
+			"imagePath": "/GioiThieu.jpg",
+			"alt": "Học sinh trao đổi cùng giảng viên"
+		},
+		{
+			"id": 7,
+			"imagePath": "/anhnen.jpg",
+			"alt": "Không gian học tập của G-Pitago"
+		},
+		{
+			"id": 8,
+			"imagePath": "/hero.png",
+			"alt": "Khoảnh khắc tự hào của học sinh"
+		}
+	],
+	"cta": {
+		"title": "Bắt đầu hành trình của riêng bạn tại Thánh đường",
+		"description": "Tham gia chương trình Elite Program để khai phá tiềm năng toán học vô hạn cùng chúng tôi.",
+		"primaryLabel": "Đăng ký Tư vấn",
+		"secondaryLabel": "Khám phá Lộ trình"
+	}
+}
