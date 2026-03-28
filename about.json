@@ -1,0 +1,221 @@
+{
+  "hero": {
+    "badge": "Chào mừng đến với G-Pitago",
+    "title": "Khởi tạo tương lai",
+    "highlight": "Toán học vững chắc",
+    "description": "Nơi trí tuệ toán học được đánh thức và mài giũa thông qua những phương pháp tư duy đột phá, lộ trình cá nhân hóa và sự đồng hành bền bỉ từ đội ngũ chuyên gia.",
+    "imagePath": "/GioiThieu.jpg",
+    "primaryLabel": "Bắt đầu hành trình",
+    "primaryHref": "/dang-ky-hoc-trai-nghiem",
+    "secondaryLabel": "Khám phá triết lý",
+    "secondaryHref": "#triet-ly"
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Tầm nhìn",
+        "description": "Trở thành môi trường toán học hàng đầu, nơi kiến tạo thế hệ công dân toàn cầu với tư duy logic vượt trội và nền tảng tri thức bền vững.",
+        "icon": "eye",
+        "accent": "sky"
+      },
+      {
+        "title": "Sứ mệnh",
+        "description": "Khai phá và định hướng tư duy toán học, giúp học sinh tìm thấy niềm vui, sự tự tin và bản lĩnh trong từng bài toán cũng như trong cuộc sống.",
+        "icon": "rocket",
+        "accent": "amber"
+      },
+      {
+        "title": "Giá trị cốt lõi",
+        "description": "Chuyên nghiệp trong giảng dạy, tận tâm với từng học trò và sáng tạo không ngừng trong mọi phương pháp tiếp cận tri thức.",
+        "icon": "gem",
+        "accent": "stone"
+      }
+    ]
+  },
+  "philosophy": {
+    "badge": "Bản sắc G-Pitago",
+    "title": "Nơi Toán Học",
+    "highlight": "Tìm Thấy Ý Nghĩa",
+    "quote": "Toán học không chỉ là những con số vô tri, mà là nghệ thuật của sự logic và bản giao hưởng của trí tuệ.",
+    "description": "Tại G-Pitago, chúng tôi không dạy học sinh cách nhớ công thức. Chúng tôi dạy các em cách cảm nhận vẻ đẹp của một chứng minh chặt chẽ, sức mạnh của một tư duy rành mạch và sự tự tin khi đối diện với thử thách.",
+    "imagePath": "/DanhGia.jpg",
+    "floatingCard": {
+      "eyebrow": "Bản sắc",
+      "title": "Triết lý hội tụ"
+    },
+    "principles": [
+      {
+        "title": "Tư duy gốc rễ",
+        "description": "Thấu hiểu vì sao trước khi học làm thế nào, để kiến thức không rơi vào ghi nhớ máy móc.",
+        "icon": "brain"
+      },
+      {
+        "title": "Kiến trúc trí tuệ",
+        "description": "Xây dựng nền tảng tư duy mạch lạc giúp học sinh tiến xa trong học tập và nhiều lĩnh vực khác nhau.",
+        "icon": "landmark"
+      }
+    ]
+  },
+  "journey": {
+    "eyebrow": "Hành trình kiến tạo",
+    "title": "Khởi nguồn từ khát vọng thay đổi",
+    "description": "Từ một niềm tin mãnh liệt vào tiềm năng vô hạn của học sinh Việt Nam, G-Pitago ra đời để định nghĩa lại cách chúng ta tiếp cận môn Toán: sâu hơn, sáng hơn và có ý nghĩa hơn.",
+    "timeline": [
+      {
+        "period": "Tháng 11/2024",
+        "title": "Hạt mầm ý tưởng",
+        "description": "G-Pitago được hình thành từ khát vọng mang những phương pháp toán học hiện đại, giàu tính khai mở về Việt Nam."
+      },
+      {
+        "period": "2025",
+        "title": "Vươn mình mạnh mẽ",
+        "description": "Mở rộng quy mô, xây dựng nhiều lộ trình phù hợp với từng nhóm mục tiêu và từng cấp độ nền tảng khác nhau."
+      },
+      {
+        "period": "Hiện tại",
+        "title": "Tác động bền vững",
+        "description": "Chúng tôi không chỉ dạy toán, chúng tôi vun bồi sự tự tin, bản lĩnh và năng lực tư duy độc lập cho học sinh."
+      }
+    ],
+    "comparison": {
+      "legacyTitle": "Cách học cũ",
+      "legacyItems": [
+        "Học vẹt công thức",
+        "Áp lực thi cử nặng nề",
+        "Giải toán theo khuôn mẫu"
+      ],
+      "modernTitle": "Cách G-Pitago",
+      "modernItems": [
+        "Tư duy bản chất",
+        "Cảm hứng và đam mê",
+        "Sáng tạo đa phương diện"
+      ]
+    },
+    "stats": [
+      {
+        "value": "95%",
+        "label": "Đỗ nguyện vọng 1"
+      },
+      {
+        "value": "20+",
+        "label": "Chuyên gia đồng hành"
+      },
+      {
+        "value": "500+",
+        "label": "Học viên tin tưởng"
+      },
+      {
+        "value": "100%",
+        "label": "Tận tâm đồng hành"
+      }
+    ]
+  },
+  "programs": {
+    "title": "Chương trình đào tạo",
+    "description": "Lộ trình được thiết kế cá nhân hóa, bám sát các kỳ thi quan trọng và năng lực thực tế của từng học sinh.",
+    "items": [
+      {
+        "badge": "Nâng cao",
+        "title": "Bồi dưỡng học sinh giỏi",
+        "description": "Chinh phục các giải thưởng quốc gia và quốc tế với chuyên đề chuyên sâu và tư duy giải toán đột phá.",
+        "imagePath": "/hero.png",
+        "ctaLabel": "Đăng ký học thử ngay",
+        "ctaHref": "/dang-ky-hoc-trai-nghiem"
+      },
+      {
+        "badge": "Luyện thi",
+        "title": "Luyện thi vào lớp 10",
+        "description": "Tối ưu hóa điểm số và kỹ năng làm bài để bước vào các trường THPT chuyên trọng điểm và chất lượng cao.",
+        "imagePath": "/anhnen.jpg",
+        "ctaLabel": "Đăng ký học thử ngay",
+        "ctaHref": "/dang-ky-hoc-trai-nghiem"
+      },
+      {
+        "badge": "ĐGNL",
+        "title": "Luyện thi ĐGNL",
+        "description": "Trang bị tư duy giải quyết vấn đề thực tế và làm chủ các dạng đề thi đánh giá năng lực kiểu mới.",
+        "imagePath": "/DanhGia-red.jpg",
+        "ctaLabel": "Đăng ký học thử ngay",
+        "ctaHref": "/dang-ky-hoc-trai-nghiem"
+      }
+    ]
+  },
+  "team": {
+    "title": "Đội ngũ giáo viên",
+    "description": "Những người dẫn đường tận tâm với chuyên môn vững vàng, phương pháp hiện đại và sự thấu hiểu sâu sắc với từng học sinh.",
+    "ctaLabel": "Xem tất cả đội ngũ",
+    "ctaHref": "/teacher",
+    "members": [
+      {
+        "name": "TS. Phạm Nam Khánh",
+        "credential": "Tiến sĩ Toán học ứng dụng",
+        "bio": "Theo đuổi cách dạy đặt trọng tâm vào lập luận, phản biện và cấu trúc tư duy bền vững thay cho ghi nhớ ngắn hạn.",
+        "imagePath": "/PhamNamKhanh.jpg"
+      },
+      {
+        "name": "ThS. Phạm Văn Tuấn",
+        "credential": "Thạc sĩ Sư phạm Toán",
+        "bio": "Chuyên gia luyện thi với thế mạnh xây dựng chiến lược làm bài, tối ưu thời gian và tăng độ chắc kiến thức nền.",
+        "imagePath": "/PhamVanTuan.jpg"
+      },
+      {
+        "name": "Thầy Vũ Văn Long",
+        "credential": "Cử nhân Toán tài năng",
+        "bio": "Tập trung chuyển hóa các khái niệm trừu tượng thành mô hình dễ hiểu để học sinh cảm nhận được bản chất của môn học.",
+        "imagePath": "/VuVanLong.png"
+      }
+    ]
+  },
+  "voices": {
+    "title": "G-Pitago trong mắt phụ huynh và học sinh",
+    "featured": {
+      "quote": "Trước khi đến với G-Pitago, con trai tôi luôn cảm thấy áp lực với môn Toán. Chỉ sau một thời gian ngắn, con đã chủ động học, yêu thích tư duy logic và tự tin hơn rất nhiều.",
+      "name": "Chị Minh Hương",
+      "role": "Phụ huynh học sinh lớp 9 - THCS Trưng Vương",
+      "imagePath": "/DanhGia.jpg"
+    },
+    "video": {
+      "label": "Video chia sẻ",
+      "imagePath": "/DanhGia-red.jpg"
+    },
+    "compactReviews": [
+      {
+        "quote": "Lộ trình luyện đề sát thực tế và các buổi tăng cường đã giúp em đỗ vào trường chuyên đúng mục tiêu.",
+        "name": "Hoàng Anh",
+        "role": "Học sinh lớp 10",
+        "imagePath": "/hero.png"
+      }
+    ]
+  },
+  "news": {
+    "title": "Góc nhìn giáo dục",
+    "ctaLabel": "Liên hệ tư vấn thêm",
+    "ctaHref": "/contact",
+    "posts": [
+      {
+        "category": "Kỹ năng",
+        "date": "20/05/2024",
+        "title": "5 bí quyết để trẻ không còn sợ môn Toán và yêu thích tư duy logic",
+        "imagePath": "/Bao1.jpg"
+      },
+      {
+        "category": "Tin tức",
+        "date": "15/05/2024",
+        "title": "Phân tích xu hướng đề thi đánh giá năng lực mới và những thay đổi cần lưu ý",
+        "imagePath": "/Bao2.jpg"
+      },
+      {
+        "category": "Tư duy",
+        "date": "10/05/2024",
+        "title": "Vì sao Toán học là nền tảng không thể thiếu trong kỷ nguyên số",
+        "imagePath": "/Bao3.jpg"
+      }
+    ]
+  },
+  "footerCta": {
+    "title": "Hãy khám phá tiềm năng toán học của bạn",
+    "description": "Đội ngũ chuyên gia của chúng tôi luôn sẵn sàng tư vấn lộ trình học tập phù hợp nhất cho tương lai rạng ngời của con em bạn.",
+    "primaryLabel": "Đăng ký học trải nghiệm",
+    "primaryHref": "/dang-ky-hoc-trai-nghiem"
+  }
+}
