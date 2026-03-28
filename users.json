@@ -20,6 +20,13 @@
       "email": "student@gmail.com",
       "password": "$2b$10$Zx8Yw7Vt6Sr5Qp4N3m2L1k0J9h8G7f6D5s4A3b2C1d0E9F8g7H6i",
       "role": "student"
+    },
+    {
+      "id": 4,
+      "name": "Binh",
+      "email": "binh@gpytago.com",
+      "password": "$2y$10$eCKEfpPrILe5V5DuwCKUOOpGk/khrdsMysuAPKf/lXc1gw7nQuRzm",
+      "role": "student"
     }
   ]
 }
