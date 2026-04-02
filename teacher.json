@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Phạm Văn Tuấn",
       "qualification": "Tiến sĩ Toán học",
-      "avatar": "/PhamVanTuan.jpg",
+      "avatar": "/PhamVanTuan.webp",
       "bio": {
         "sections": [
           {
@@ -37,7 +37,7 @@
       "id": 2,
       "name": "Vũ Văn Long",
       "qualification": "Cử nhân Sư phạm Toán học",
-      "avatar": "/VuVanLong.png",
+      "avatar": "/VuVanLong.webp",
       "bio": {
         "sections": [
           {
@@ -60,7 +60,7 @@
       "id": 3,
       "name": "Phạm Nam Khánh",
       "qualification": "Cử nhân Sư phạm Toán học",
-      "avatar": "/PhamNamKhanh.jpg",
+      "avatar": "/PhamNamKhanh.webp",
       "bio": {
         "sections": [
           {

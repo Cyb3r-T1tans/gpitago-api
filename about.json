@@ -4,7 +4,7 @@
     "title": "Khởi tạo tương lai",
     "highlight": "Toán học vững chắc",
     "description": "Nơi trí tuệ toán học được đánh thức và mài giũa thông qua những phương pháp tư duy đột phá, lộ trình cá nhân hóa và sự đồng hành bền bỉ từ đội ngũ chuyên gia.",
-    "imagePath": "/banner.png",
+    "imagePath": "/banner.webp",
     "primaryLabel": "Bắt đầu hành trình",
     "primaryHref": "/dang-ky-hoc-trai-nghiem",
     "secondaryLabel": "Khám phá triết lý",
@@ -38,7 +38,7 @@
     "highlight": "Tìm Thấy Ý Nghĩa",
     "quote": "Toán học không chỉ là những con số vô tri, mà là nghệ thuật của sự logic và bản giao hưởng của trí tuệ.",
     "description": "Tại G-Pitago, chúng tôi không dạy học sinh cách nhớ công thức. Chúng tôi dạy các em cách cảm nhận vẻ đẹp của một chứng minh chặt chẽ, sức mạnh của một tư duy rành mạch và sự tự tin khi đối diện với thử thách.",
-    "imagePath": "/DanhGia.jpg",
+    "imagePath": "/DanhGia.webp",
     "floatingCard": {
       "eyebrow": "Bản sắc",
       "title": "Triết lý hội tụ"
@@ -111,14 +111,14 @@
     ]
   },
   "programs": {
-    "title": "Chương trình đào tạo",
+    "title": "Khoá học đỉnh cao",
     "description": "Lộ trình được thiết kế cá nhân hóa, bám sát các kỳ thi quan trọng và năng lực thực tế của từng học sinh.",
     "items": [
       {
         "badge": "Nâng cao",
         "title": "Bồi dưỡng học sinh giỏi",
         "description": "Chinh phục các giải thưởng quốc gia và quốc tế với chuyên đề chuyên sâu và tư duy giải toán đột phá.",
-        "imagePath": "/hero.png",
+        "imagePath": "/hero.webp",
         "ctaLabel": "Đăng ký học thử ngay",
         "ctaHref": "/dang-ky-hoc-trai-nghiem"
       },
@@ -126,7 +126,7 @@
         "badge": "Luyện thi",
         "title": "Luyện thi vào lớp 10",
         "description": "Tối ưu hóa điểm số và kỹ năng làm bài để bước vào các trường THPT chuyên trọng điểm và chất lượng cao.",
-        "imagePath": "/anhnen.jpg",
+        "imagePath": "/anhnen.webp",
         "ctaLabel": "Đăng ký học thử ngay",
         "ctaHref": "/dang-ky-hoc-trai-nghiem"
       },
@@ -134,7 +134,7 @@
         "badge": "ĐGNL",
         "title": "Luyện thi ĐGNL",
         "description": "Trang bị tư duy giải quyết vấn đề thực tế và làm chủ các dạng đề thi đánh giá năng lực kiểu mới.",
-        "imagePath": "/DanhGia-red.jpg",
+        "imagePath": "/DanhGia-red.webp",
         "ctaLabel": "Đăng ký học thử ngay",
         "ctaHref": "/dang-ky-hoc-trai-nghiem"
       }
@@ -150,19 +150,19 @@
         "name": "TS. Phạm Nam Khánh",
         "credential": "Tiến sĩ Toán học ứng dụng",
         "bio": "Theo đuổi cách dạy đặt trọng tâm vào lập luận, phản biện và cấu trúc tư duy bền vững thay cho ghi nhớ ngắn hạn.",
-        "imagePath": "/PhamNamKhanh.jpg"
+        "imagePath": "/PhamNamKhanh.webp"
       },
       {
         "name": "ThS. Phạm Văn Tuấn",
         "credential": "Thạc sĩ Sư phạm Toán",
         "bio": "Chuyên gia luyện thi với thế mạnh xây dựng chiến lược làm bài, tối ưu thời gian và tăng độ chắc kiến thức nền.",
-        "imagePath": "/PhamVanTuan.jpg"
+        "imagePath": "/PhamVanTuan.webp"
       },
       {
         "name": "Thầy Vũ Văn Long",
         "credential": "Cử nhân Toán tài năng",
         "bio": "Tập trung chuyển hóa các khái niệm trừu tượng thành mô hình dễ hiểu để học sinh cảm nhận được bản chất của môn học.",
-        "imagePath": "/VuVanLong.png"
+        "imagePath": "/VuVanLong.webp"
       }
     ]
   },
@@ -172,18 +172,18 @@
       "quote": "Trước khi đến với G-Pitago, con trai tôi luôn cảm thấy áp lực với môn Toán. Chỉ sau một thời gian ngắn, con đã chủ động học, yêu thích tư duy logic và tự tin hơn rất nhiều.",
       "name": "Chị Minh Hương",
       "role": "Phụ huynh học sinh lớp 9 - THCS Trưng Vương",
-      "imagePath": "/DanhGia.jpg"
+      "imagePath": "/DanhGia.webp"
     },
     "video": {
       "label": "Video chia sẻ",
-      "imagePath": "/DanhGia-red.jpg"
+      "imagePath": "/DanhGia-red.webp"
     },
     "compactReviews": [
       {
         "quote": "Lộ trình luyện đề sát thực tế và các buổi tăng cường đã giúp em đỗ vào trường chuyên đúng mục tiêu.",
         "name": "Hoàng Anh",
         "role": "Học sinh lớp 10",
-        "imagePath": "/hero.png"
+        "imagePath": "/hero.webp"
       }
     ]
   },
@@ -196,19 +196,19 @@
         "category": "Kỹ năng",
         "date": "20/05/2024",
         "title": "5 bí quyết để trẻ không còn sợ môn Toán và yêu thích tư duy logic",
-        "imagePath": "/Bao1.jpg"
+        "imagePath": "/Bao1.webp"
       },
       {
         "category": "Tin tức",
         "date": "15/05/2024",
         "title": "Phân tích xu hướng đề thi đánh giá năng lực mới và những thay đổi cần lưu ý",
-        "imagePath": "/Bao2.jpg"
+        "imagePath": "/Bao2.webp"
       },
       {
         "category": "Tư duy",
         "date": "10/05/2024",
         "title": "Vì sao Toán học là nền tảng không thể thiếu trong kỷ nguyên số",
-        "imagePath": "/Bao3.jpg"
+        "imagePath": "/Bao3.webp"
       }
     ]
   },

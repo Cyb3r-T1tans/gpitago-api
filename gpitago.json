@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Phạm Văn Tuấn",
       "qualification": "Tiến sĩ Toán học",
-      "avatar": "/PhamVanTuan.jpg",
+      "avatar": "/PhamVanTuan.webp",
       "bio": {
         "sections": [
           {
@@ -37,7 +37,7 @@
       "id": 2,
       "name": "Vũ Văn Long",
       "qualification": "Cử nhân Sư phạm Toán học",
-      "avatar": "/VuVanLong.png",
+      "avatar": "/VuVanLong.webp",
       "bio": {
         "sections": [
           {
@@ -60,7 +60,7 @@
       "id": 3,
       "name": "Phạm Nam Khánh",
       "qualification": "Cử nhân Sư phạm Toán học",
-      "avatar": "/PhamNamKhanh.jpg",
+      "avatar": "/PhamNamKhanh.webp",
       "bio": {
         "sections": [
           {
@@ -85,7 +85,7 @@
   "news": [
     {
       "id": 1,
-      "source": "/Bao1.jpg",
+      "source": "/Bao1.webp",
       "title": "Bộ GD-ĐT công bố những điểm mới về thi tốt nghiệp THPT năm 2026",
       "summary": "Thông tư mới tích hợp giấy báo dự thi và thẻ dự thi thành một loại duy nhất, điều chỉnh quy trình phúc khảo và các diện ưu tiên phù hợp với mô hình chính quyền địa phương 2 cấp.",
       "url": "https://vietnamnet.vn/bo-gd-dt-cong-bo-nhung-diem-moi-ve-thi-tot-nghiep-thpt-nam-2026-2496544.html",
@@ -93,7 +93,7 @@
     },
     {
       "id": 2,
-      "source": "/Bao2.jpg",
+      "source": "/Bao2.webp",
       "title": "Chốt lịch thi lớp 10 Hà Nội, thí sinh không được đổi nguyện vọng sau khi đăng ký",
       "summary": "Kỳ thi vào lớp 10 Hà Nội diễn ra từ 30/5 đến 1/6, sớm hai tuần so với mọi năm. Mỗi thí sinh được đăng ký tối đa 3 nguyện vọng vào trường THPT công lập.",
       "url": "https://vnexpress.net/chot-lich-thi-lop-10-ha-noi-thi-sinh-khong-duoc-doi-nguyen-vong-sau-khi-dang-ky-5047346.html",
@@ -101,7 +101,7 @@
     },
     {
       "id": 3,
-      "source": "/Bao3.jpg",
+      "source": "/Bao3.webp",
       "title": "Không công bố đề minh họa Kỳ thi tốt nghiệp THPT 2026",
       "summary": "Bộ GD&ĐT sẽ không công bố đề minh họa năm 2026. Cấu trúc đề thi giữ nguyên theo tỉ lệ 4:3:3. Kỳ thi dự kiến tổ chức ngày 11-12/6/2026.",
       "url": "https://xaydungchinhsach.chinhphu.vn/khong-cong-bo-de-minh-hoa-ky-thi-tot-nghiep-thpt-2026-119260205083208828.htm",
